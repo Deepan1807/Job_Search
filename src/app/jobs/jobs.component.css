@@ -1,0 +1,13 @@
+img{
+    width:100px;
+    height: 100px;
+
+}
+.active{
+    color:orange;
+}
+
+.table:not(.horizontal) {
+    overflow: auto;
+    max-height: none !important;
+}
